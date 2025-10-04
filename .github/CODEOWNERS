@@ -1,1 +1,10 @@
 "*       @viola-1914" 
+# Format : <chemin> <propriétaire(s) GitHub>
+
+# Règle générale (tout le projet)
+*       @viola-1914
+
+# Si tu veux assigner des reviewers spécifiques :
+/src/   @dev1 @dev2
+/docs/  @dev3
+/tests/ @viola-1914
